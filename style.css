@@ -22,7 +22,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-top: 30px;
+    margin: 30px;
 
 }
 
@@ -31,12 +31,9 @@ body{
     display: flex;
     flex-direction: column;
     align-items: center;
-    width: 90%; 
     background-color: #FFFFFF;
-    width: 450px;
+    width: 350px;
     border-radius: 20px;
-    padding: 0 20px 20px 20px;
-
 }
 
 .link-bio img{
@@ -54,7 +51,7 @@ body{
 
 .link-bio p{
     margin: 10px 0px 20px 0px ;
-    font-size: 1.2rem;
+    font-size: 1rem;
     color: rgb(0, 0, 0);
     text-align: center;
     margin: 10px ;
@@ -65,7 +62,7 @@ body{
     background: rgb(138, 43, 226);
     color: #ffffffff;
     text-align: center;
-    font-size: 1.5rem;
+    font-size: 1.3rem;
     margin: 10px;
     border-radius: 40px;
     width: 90%;
