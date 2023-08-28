@@ -34,12 +34,8 @@ Os participantes do workshop puderam adquirir conhecimentos essenciais, incluind
 Após a conclusão do workshop, os participantes estão encorajados a explorar e expandir seus conhecimentos. Alguns passos futuros podem incluir:
 
 - Personalização e aprimoramento da página web criada durante o workshop.
-- Exploração de recursos avançados do GitHub, como Actions e Pages themes.
 - Aprofundamento em conceitos de design responsivo e interatividade.
 
-## Repositório
-
-Este repositório contém o código fonte desenvolvido durante o workshop e a página web resultante. Para visualizar o projeto, acesse [NOME_DO_REPOSITÓRIO](COLOQUE_AQUI_A_URL_DO_REPOSITÓRIO).
 
 ## Nota
 
