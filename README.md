@@ -1,4 +1,4 @@
-#Linktree: Publicando sua Primeira Página
+##Linktree: Publicando sua Primeira Página
 
 Este é o resultado da atividade proposta no Workshop "Publicando sua primeira página de forma rápida e gratuita", onde o objetivo foi criar uma página web e realizar sua publicação utilizando o GitHub Pages. O GitHub Pages é um serviço gratuito fornecido pelo GitHub que possibilita hospedar sites, incluindo conteúdo HTML, CSS e JavaScript, diretamente a partir de um repositório GitHub.
 
