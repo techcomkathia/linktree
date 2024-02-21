@@ -38,6 +38,8 @@ Após a conclusão do workshop, os participantes estão encorajados a explorar e
 - Personalização e aprimoramento da página web criada durante o workshop.
 - Aprofundamento em conceitos de design responsivo e interatividade.
 
+- https://techcomkathia.github.io/linktree/
+
 
 ## Nota
 
