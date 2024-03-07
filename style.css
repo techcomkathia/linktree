@@ -18,7 +18,7 @@
 
 body{
     background-image: url(black-texture.jpg);
-    background-size: cover;
+    background-repeat: repeat;
     display: flex;
     justify-content: center;
     align-items: center;
